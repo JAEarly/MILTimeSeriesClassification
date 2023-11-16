@@ -8,9 +8,9 @@
 ## Repo Structure
 
 * **data** - Synthetic WebTraffic dataset (time series data and metadata).
-* **millet:** - Main code implementation for the MILLET framework.
-* **model:** - Trained model files.
-* **notebooks:** - Jupyter notebooks demonstrating example usage.
+* **millet** - Main code implementation for the MILLET framework.
+* **model** - Trained model files.
+* **notebooks** - Jupyter notebooks demonstrating example usage.
 
 Code is formatted with [Black](https://black.readthedocs.io/en/stable/), [Flake8](https://flake8.pycqa.org/en/latest/),
 and [MyPy](https://mypy.readthedocs.io/en/stable/). Maximum line length is set to 120.  
